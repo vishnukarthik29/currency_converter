@@ -1,38 +1,23 @@
-# CurrencyConverter
+# 💱 Currency Converter App (Vue 3 + Tailwind CSS)
 
-This template should help get you started developing with Vue 3 in Vite.
+A modern and responsive **Currency Converter** built with **Vue.js 3 (Composition API)**, **Axios**, and **Tailwind CSS**.  
+It fetches live exchange rates from free public APIs and updates conversion results in real-time.
 
-## Recommended IDE Setup
+---
 
-[VS Code](https://code.visualstudio.com/) + [Vue (Official)](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+## 🚀 Features
 
-## Recommended Browser Setup
+✅ Convert between any two world currencies  
+✅ Fetch live exchange rates via [open.er-api.com](https://open.er-api.com)  
+✅ Responsive, clean, and minimal UI (works great on mobile & desktop)  
+✅ “Swap Currencies” button  
+✅ Smooth fade animation on conversion updates  
+✅ Loading & error handling states  
+✅ Built using Vue 3 Composition API  
+✅ Styled entirely with Tailwind CSS  
+✅ Modular component structure (`ConverterCard`, `CurrencyDropdown`)  
+✅ Footer credit line “Built with Vue.js 💚”
 
-- Chromium-based browsers (Chrome, Edge, Brave, etc.):
-  - [Vue.js devtools](https://chromewebstore.google.com/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd) 
-  - [Turn on Custom Object Formatter in Chrome DevTools](http://bit.ly/object-formatters)
-- Firefox:
-  - [Vue.js devtools](https://addons.mozilla.org/en-US/firefox/addon/vue-js-devtools/)
-  - [Turn on Custom Object Formatter in Firefox DevTools](https://fxdx.dev/firefox-devtools-custom-object-formatters/)
+---
 
-## Customize configuration
-
-See [Vite Configuration Reference](https://vite.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
-```
-
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
+## 🧱 Project Structure
