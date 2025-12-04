@@ -1,4 +1,4 @@
-# 💱 Currency Converter App (Vue 3 + Tailwind CSS)
+# 💱 Currency Converter Web App (Vue 3 + Tailwind CSS)
 
 A modern and responsive **Currency Converter** built with **Vue.js 3 (Composition API)**, **Axios**, and **Tailwind CSS**.  
 It fetches live exchange rates from free public APIs and updates conversion results in real-time.
